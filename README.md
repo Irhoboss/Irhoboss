@@ -6,7 +6,7 @@
 ---
 
 ### 📚 About Me
-- 🎓 **First‑year IT student** building strong foundations in Programming fundamentals
+- 🎓 **Second Year IT student** building strong foundations in Programming fundamentals
 - 💻 Diving into **Java OOP** — classes, objects, inheritance, polymorphism, encapsulation
 - 🛠️ Writing small console programs to practice
 
